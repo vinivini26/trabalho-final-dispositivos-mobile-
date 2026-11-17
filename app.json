@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "André Lanches",
+    "slug": "andre-lanches-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/app/icon.png",
+    "userInterfaceStyle": "light",
+    "android": { "package": "br.com.andrelanches.app" },
+    "ios": { "bundleIdentifier": "br.com.andrelanches.app" },
+    "web": { "favicon": "./assets/app/favicon.png" }
+  }
+}
