@@ -1,0 +1,12 @@
+Transformei o site estático do André Lanches em um aplicativo em JavaScript com React Native e Expo.
+Mantive a marca, as fotos e os preços do cardápio original.
+Organizei o conteúdo em um fluxo vertical com abas para Lanches, Sobre Nós e Contato.
+Usei SafeAreaView para respeitar as áreas reservadas do aparelho.
+Usei StyleSheet e Flexbox para organizar os cartões e adaptar o layout à largura da tela.
+Ajustei a paleta, a hierarquia tipográfica e os espaçamentos para facilitar a leitura.
+Dividi a interface em componentes funcionais com JSX nativo.
+O banner recebe título, descrição e preço por props e pode ser reaproveitado em outras promoções.
+O estado da tela ativa muda ao tocar em uma aba, e o React renderiza o conteúdo correspondente.
+O formulário usa TextInput para capturar e validar nome, contato e mensagem.
+Alert.alert confirma o envio simulado no aplicativo, que não tem servidor de mensagens.
+O botão de entrega usa Linking para abrir o discador nativo com o número configurado.
