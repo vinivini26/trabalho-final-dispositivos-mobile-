@@ -29,3 +29,5 @@ Em **Contato**, o formulário verifica nome, e-mail ou WhatsApp com DDD, e mensa
 ## Entrega da atividade
 
 O comentário de 12 linhas para o Google Classroom está em [docs/comentario-classroom.txt](docs/comentario-classroom.txt).
+
+A [demonstração em vídeo](docs/demonstracao.mp4) foi gravada no navegador em tamanho de celular. Ela mostra o cardápio, os filtros, a navegação e o formulário.
